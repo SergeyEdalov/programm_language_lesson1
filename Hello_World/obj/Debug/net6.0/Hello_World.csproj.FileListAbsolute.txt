@@ -1,0 +1,15 @@
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\bin\Debug\net6.0\Hello_World.exe
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\bin\Debug\net6.0\Hello_World.deps.json
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\bin\Debug\net6.0\Hello_World.runtimeconfig.json
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\bin\Debug\net6.0\Hello_World.dll
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\bin\Debug\net6.0\Hello_World.pdb
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\Hello_World.csproj.AssemblyReference.cache
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\Hello_World.AssemblyInfoInputs.cache
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\Hello_World.AssemblyInfo.cs
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\Hello_World.csproj.CoreCompileInputs.cache
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\Hello_World.dll
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\refint\Hello_World.dll
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\Hello_World.pdb
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\Hello_World.genruntimeconfig.cache
+D:\Учеба программирование\Курс. Знакомство с языками программирования\Hello_World\obj\Debug\net6.0\ref\Hello_World.dll
